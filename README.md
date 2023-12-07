@@ -6,7 +6,7 @@ This repository contains the official implementation of [SVGA-Net: Sparse Voxel-
 <img width="871" alt="image" src="https://github.com/hithqd/SVGA-Net/assets/37433515/23c8d70c-ecb6-4ecd-8cff-a2c46c2546a7">
 
 # Citation
-、、、
+```
 @inproceedings{he2022svga,
   title={Svga-net: Sparse voxel-graph attention network for 3d object detection from point clouds},
   author={He, Qingdong and Wang, Zhengning and Zeng, Hao and Zeng, Yi and Liu, Yijun},
@@ -16,4 +16,4 @@ This repository contains the official implementation of [SVGA-Net: Sparse Voxel-
   pages={870--878},
   year={2022}
 }
-、、、
+```
